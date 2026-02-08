@@ -12,8 +12,8 @@ const mineflayer = require('mineflayer');
 
 // ========== CONFIGURATION ==========
 const CONFIG = {
-  host: 'YOUR_SERVER.aternos.me',  // Change this!
-  port: 25565,                      // Change if needed
+  host: 'chiku99.aternos.me',  // Change this!
+  port: 50044,                      // Change if needed
   baseName: 'MC_Bot',               // Base bot name
   version: '1.20.4',                // Minecraft version (adjust as needed)
 };
